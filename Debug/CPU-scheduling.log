@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(102,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(148,11): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(155,11): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(163,12): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(185,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\fluky\source\repos\CPU-scheduling\Source.cpp(208,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPU-scheduling.vcxproj -> C:\Users\fluky\source\repos\CPU-scheduling\Debug\CPU-scheduling.exe
